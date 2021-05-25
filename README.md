@@ -1,0 +1,2 @@
+# Capstone-Time-Series-Modeling-for-Demand-Forecasting
+Researched and developed methods for modeling univariate time series data using Python and Statsmodels, and built a function which automatically recognized the decomposition method through analysis of autocorrelation of residuals. Modeled using AutoRegression for generating daily forecasts and evaluated the model with a scale independent metric to obtain an average 30% improvement over a Naïve model.
